@@ -1,8 +1,11 @@
+import ImageSlider from "@/components/Images";
 
 function page() {
    
   return (
-   <div></div>
+   <div>
+    <ImageSlider />
+       </div>
   );
 }
 
