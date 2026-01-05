@@ -1,10 +1,11 @@
 import ImageSlider from "@/components/Images";
 
+
 function page() {
    
   return (
    <div>
-    <ImageSlider />
+          <ImageSlider />
        </div>
   );
 }
